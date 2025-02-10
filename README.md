@@ -19,7 +19,10 @@ TrackFly, havaalanı operasyonlarında **sürücülerin bekleme sürelerini en a
 
 
 ---
+📥 **İndir**  
+[⬇ Windows İndir](demo-indir/windows.zip) | [⬇ Android İndir](demo-indir/android/TrackFly-Demo.apk)  
 
+---
 ## 🚀 Amaç ve Hedefler  
 TrackFly, **uçuş ve araç takibini** optimize ederek:  
 ✅ **Havaalanı operasyonlarındaki bekleme sürelerini azaltmayı**,  
