@@ -22,7 +22,6 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 | **MySQL** | Kullanıcı ve uçuş bilgilerini güvenli bir şekilde depolamak için |
 | **Firebase** | Gerçek zamanlı veri senkronizasyonu için |
 | **Figma** | Kullanıcı arayüzü tasarımı için |
-| **Git** | Versiyon kontrolü ve takım çalışması için |
 
 ## 📌 TrackFly'in Çalışma Prensibi
 1. **Kullanıcı, uygulama üzerinden bir yolculuk oluşturur.**  
@@ -63,7 +62,6 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 ---
 
 ## 📷 Ekran Görüntüleri
-Aşağıya proje arayüzünden bazı görseller ekleyebilirsiniz:
 
 ![Ana Ekran](gorseller/Resim1.png)
 ![Ana Ekran](gorseller/Resim2.png)
@@ -72,12 +70,3 @@ Aşağıya proje arayüzünden bazı görseller ekleyebilirsiniz:
 ![Ana Ekran](gorseller/Resim5.png)
 ![Ana Ekran](gorseller/Resim6.png)
 
-_(Görselleri eklemek için `assets` klasörüne uygun PNG dosyalarını eklemelisiniz.)_
-
----
-
-## 📥 Kurulum ve Kullanım
-### 1️⃣ Gerekli Bağımlılıkları Yükleyin
-Projeyi çalıştırmadan önce, aşağıdaki bağımlılıkları yükleyin:
-```sh
-flutter pub get
