@@ -63,10 +63,10 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 
 ## 📷 Ekran Görüntüleri
 
-![Ana Ekran](gorseller/Resim1.png)
-![Ana Ekran](gorseller/Resim2.png)
 ![Ana Ekran](gorseller/Resim3.png)
-![Ana Ekran](gorseller/Resim4.png)
 ![Ana Ekran](gorseller/Resim5.png)
+![Ana Ekran](gorseller/Resim1.png)
+![Ana Ekran](gorseller/Resim4.png)
+![Ana Ekran](gorseller/Resim2.png)
 ![Ana Ekran](gorseller/Resim6.png)
 
