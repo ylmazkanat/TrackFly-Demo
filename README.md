@@ -65,9 +65,12 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 ## 📷 Ekran Görüntüleri
 Aşağıya proje arayüzünden bazı görseller ekleyebilirsiniz:
 
-![Ana Ekran](assets/home_screen.png)
-![Yolculuk Takibi](assets/tracking_screen.png)
-![Hava Durumu Entegrasyonu](assets/weather_screen.png)
+![Ana Ekran](gorseller/Resim1.png)
+![Ana Ekran](gorseller/Resim2.png)
+![Ana Ekran](gorseller/Resim3.png)
+![Ana Ekran](gorseller/Resim4.png)
+![Ana Ekran](gorseller/Resim5.png)
+![Ana Ekran](gorseller/Resim6.png)
 
 _(Görselleri eklemek için `assets` klasörüne uygun PNG dosyalarını eklemelisiniz.)_
 
