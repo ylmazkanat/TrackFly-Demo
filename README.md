@@ -53,6 +53,7 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 - **Yağmur olasılığı, sıcaklık** gibi hava durumu verileri incelenerek, **sürücü rotaları optimize edilir**.  
 
 ---
+![Ana Ekran](gorseller/Resim2.png)
 
 ## 📊 Deneysel Çalışmalar
 - **Performans Testleri:** Ortalama gecikme süresi **5 saniyenin altında**, sistem stabil çalışmaktadır.  
@@ -67,6 +68,5 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 ![Ana Ekran](gorseller/Resim5.png)
 ![Ana Ekran](gorseller/Resim1.png)
 ![Ana Ekran](gorseller/Resim4.png)
-![Ana Ekran](gorseller/Resim2.png)
 ![Ana Ekran](gorseller/Resim6.png)
 
