@@ -5,6 +5,13 @@ TrackFly, havaalanı operasyonlarında **sürücülerin bekleme sürelerini en a
 ## 📌 Proje Hakkında
 - **Geliştirme Teknolojileri:** Flutter, API Entegrasyonu, MySQL, Firebase, Yapay Zeka  
 - **Platformlar:** Android, iOS, Web  
+- **Giriş Bilgileri:** 
+| Kullanıcı Adı  | Şifre  |
+|------------|----------|
+| **admin** | 1234 |
+| **surucu** | 1234 |
+| **kullanici** | 1234 |
+
 
 ## 🚀 Amaç ve Hedefler
 TrackFly, **uçuş ve araç takibini** optimize ederek:
