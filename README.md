@@ -17,7 +17,6 @@ TrackFly, havaalanı operasyonlarında **sürücülerin bekleme sürelerini en a
 | **Sürücü**   | `surucu`     | `1234` |
 | **Kullanıcı**| `kullanici`  | `1234` |
 
-> 🚀 **Not:** Varsayılan giriş bilgilerini değiştirmek için **veritabanını güncellemelisiniz.**  
 
 ---
 
@@ -63,6 +62,8 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
    - **Sürücünün güncel konumunu görebilir.**  
 
 ---
+![Ana Ekran](gorseller/Resim2.png)  
+---
 
 ## 🧠 Yapay Zeka Destekli Özellikler  
 🔹 **Rötar Tahmini**:  
@@ -75,37 +76,16 @@ TrackFly, **uçuş ve araç takibini** optimize ederek:
 
 ## 📷 Uygulama Arayüzü  
 
-> **Ana Ekran**  
-> ![Ana Ekran](gorseller/Resim2.png)  
 
-> **Yolculuk Bilgileri**  
-> ![Yolculuk Bilgileri](gorseller/Resim3.png)  
 
-> **Uçuş Detayları**  
-> ![Uçuş Detayları](gorseller/Resim5.png)  
+![Yolculuk Bilgileri](gorseller/Resim3.png)  
+![Uçuş Detayları](gorseller/Resim5.png)  
+![Sürücü Takibi](gorseller/Resim1.png)  
 
-> **Sürücü Takibi**  
-> ![Sürücü Takibi](gorseller/Resim1.png)  
+![Hava Durumu](gorseller/Resim4.png)  
 
-> **Hava Durumu Entegrasyonu**  
-> ![Hava Durumu](gorseller/Resim4.png)  
+![Rötar Tahmini](gorseller/Resim6.png)  
 
-> **Yapay Zeka Rötar Tahmini**  
-> ![Rötar Tahmini](gorseller/Resim6.png)  
 
-> 📌 **Not:** Görsellerin düzgün görüntülenmesi için **`gorseller/`** klasörüne resimleri eklemelisiniz.  
 
----
 
-## 📊 Deneysel Çalışmalar  
-- **Performans Testleri:** Ortalama gecikme süresi **5 saniyenin altında**, sistem stabil çalışmaktadır.  
-- **Kullanıcı Arayüzü Testleri:** **Tüm ekranlarda uyumlu ve sorunsuz** bir deneyim sağlanmıştır.  
-- **Stabilite Testleri:** **Eş zamanlı işlemlerde hata gözlemlenmemiştir.**  
-
----
-
-## 📥 Kurulum ve Kullanım  
-
-### 1️⃣ **Bağımlılıkları Yükleyin**  
-```sh
-flutter pub get
